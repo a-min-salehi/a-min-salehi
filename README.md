@@ -2,7 +2,7 @@
 - 👀 I’m interested in python , IOT & AI
 - 🌱 I’m currently learning new technilogies about my interests
 - 💞️ I’m looking to collaborate on what you can do 
-- 📫 How to reach me : aminesalehi@gmail.com
+- 📫 How to reach me : aminesalehi80@gmail.com
 - tel : @creat_new_world
 
 <!---
